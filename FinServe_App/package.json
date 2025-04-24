@@ -1,0 +1,21 @@
+{
+  "name": "Bank-App",
+  "description": "Contains a bank application written in AngularJS",
+  "version": "1.0.0",
+  "dependencies": {
+    "@aws-sdk/client-cloudwatch-logs": "^3.787.0",
+    "@aws-sdk/client-s3": "^3.787.0",
+    "aws-serverless-express": "^3.4.0",
+    "body-parser": "^1.14.1",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.13.11",
+    "karma-chrome-launcher": "^0.2.1",
+    "karma-jasmine": "^0.3.6",
+    "method-override": "^2.3.5"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
